@@ -31,7 +31,7 @@ namespace TailSpin.SpaceGame.Web.Models
     }
 
     /// <summary>
-    /// Combines a score and a user profile.
+    /// Combines a score and a user profile. Some updates
     /// </summary>
     public struct ScoreProfile
     {
